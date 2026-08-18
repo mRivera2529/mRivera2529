@@ -1,42 +1,49 @@
-Hi, I'm Miguel Rivera 👋
+# Hi, I'm Miguel Rivera 👋
 
-# About Me
+I'm a Computer Engineering student at Temple University with an interest in computer hardware, computer architecture, programming, and engineering problem-solving.
 
-I'm a Computer Engineering student at Temple University interested in
-computer hardware, computer architecture, and software development.
+## 🎓 Education
 
-I'm currently developing my technical skills through engineering
-coursework, programming, and hands-on projects.
-
-# Education
-
-🎓 Temple University
+**Temple University**  
 B.S. in Computer Engineering
 
-# Technical Skills & Tools
+## 💻 Technical Skills
 
 - C++
 - Python
 - MATLAB
+- Microsoft Excel
 - Git & GitHub
 - VS Code
-- Microsoft Excel
 
-# Currently Learning
+## 🔧 Engineering Interests
+
+- Computer Hardware
+- Computer Architecture
+- Embedded Systems
+- Engineering Computation
+- Hardware/Software Integration
+
+## 📚 Currently Learning
 
 - Engineering computation
 - Algorithms and problem solving
 - Linux and command-line tools
 - Emacs
+- Embedded systems
 - Computer architecture
 
-# Projects
+## 🚀 Projects
 
-I'm building my technical portfolio through engineering coursework,
-programming projects, and personal projects.
+### Temperature-Regulated micro:bit Enclosure
+Team engineering project involving a BBC micro:bit V2, temperature sensors, fans, electrical circuitry, CAD-designed components, and a custom-built enclosure.
 
-More projects will be added as I continue developing my skills.
+### Wind Energy Analysis & Turbine Modeling
+MATLAB engineering project analyzing wind turbine energy production using weather data, multiple turbine hub heights, energy calculations, data visualization, and economic modeling.
 
-# Connect With Me
+More projects will be added as I continue developing my engineering and programming skills.
+
+## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/miguel-rivera-3490a7326/)
+- [GitHub](https://github.com/mRivera2529)
