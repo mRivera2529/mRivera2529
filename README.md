@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Miguel Rivera 👋
 
-<!--
-**mRivera2529/mRivera2529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student at Temple University interested in
+computer hardware, computer architecture, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my technical skills through engineering
+coursework, programming, and hands-on projects.
+
+# Education
+
+🎓 Temple University
+B.S. in Computer Engineering
+
+# Technical Skills & Tools
+
+- C++
+- Python
+- MATLAB
+- Git & GitHub
+- VS Code
+- Microsoft Excel
+
+# Currently Learning
+
+- Engineering computation
+- Algorithms and problem solving
+- Linux and command-line tools
+- Emacs
+- Computer architecture
+
+# Projects
+
+I'm building my technical portfolio through engineering coursework,
+programming projects, and personal projects.
+
+More projects will be added as I continue developing my skills.
+
+# Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/miguel-rivera-3490a7326/)
